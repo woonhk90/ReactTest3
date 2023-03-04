@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/woonhk90-ReactTest3/static/css/main.5beca1d4.css",
-    "main.js": "/woonhk90-ReactTest3/static/js/main.3084bffc.js",
-    "index.html": "/woonhk90-ReactTest3/index.html",
-    "main.5beca1d4.css.map": "/woonhk90-ReactTest3/static/css/main.5beca1d4.css.map",
-    "main.3084bffc.js.map": "/woonhk90-ReactTest3/static/js/main.3084bffc.js.map"
+    "main.css": "/ReactTest3/static/css/main.5beca1d4.css",
+    "main.js": "/ReactTest3/static/js/main.3084bffc.js",
+    "index.html": "/ReactTest3/index.html",
+    "main.5beca1d4.css.map": "/ReactTest3/static/css/main.5beca1d4.css.map",
+    "main.3084bffc.js.map": "/ReactTest3/static/js/main.3084bffc.js.map"
   },
   "entrypoints": [
     "static/css/main.5beca1d4.css",
